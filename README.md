@@ -1,8 +1,9 @@
 # React
 Trabalho do curso de Pós-Graduação em Desenvolvimento Web e Dispositivos Móveis
 
-     ```<BrowserRouter>
-        <Container>
+     ```
+        <BrowserRouter>
+          <Container>
           <Switch>
             <Route path="/" exact component={Login} />
             <PrivateRoute path="/api/cadastrarUsuarios" component={CadastrarUsuario} />
@@ -13,4 +14,5 @@ Trabalho do curso de Pós-Graduação em Desenvolvimento Web e Dispositivos Móv
             <Route component={NotFound} />
           </Switch>
         </Container>
-        </BrowserRouter>```
+        </BrowserRouter>
+        ```
