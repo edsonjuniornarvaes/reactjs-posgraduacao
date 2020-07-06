@@ -1,7 +1,6 @@
 # React
 Trabalho do curso de Pós-Graduação em Desenvolvimento Web e Dispositivos Móveis
 
-     ```
         <BrowserRouter>
           <Container>
           <Switch>
@@ -15,4 +14,3 @@ Trabalho do curso de Pós-Graduação em Desenvolvimento Web e Dispositivos Móv
           </Switch>
         </Container>
         </BrowserRouter>
-        ```
