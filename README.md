@@ -1,7 +1,7 @@
-##React
+# React
 Trabalho do curso de Pós-Graduação em Desenvolvimento Web e Dispositivos Móveis
 
-     <BrowserRouter>
+     ```<BrowserRouter>
         <Container>
           <Switch>
             <Route path="/" exact component={Login} />
@@ -13,4 +13,4 @@ Trabalho do curso de Pós-Graduação em Desenvolvimento Web e Dispositivos Móv
             <Route component={NotFound} />
           </Switch>
         </Container>
-        </BrowserRouter>
+        </BrowserRouter>```
